@@ -1,0 +1,21 @@
+startup:
+  loadbtn: "Load"
+  loaddots: ".  .  ."
+  loading: "Loading"
+  new: "New"
+  failbadfile:
+    btn: "My mistake"
+    text: "This file isn't a valid irony story!"
+  failcreate:
+    btn: "Hum, good question"
+    text: "Impossible to create the file!\nAre you sure you can do this?"
+  failopen:
+    btn: "Let me check that"
+    text: "Impossible to open the file!\nDo you have the right to see it?"
+  failreplace:
+    btn: "Oh, OK"
+    text: "Something went wrong when trying to\nreplace the file"
+  alreadyopen:
+    btn: "Okay"
+    text: "This story is already opened.\nMaybe it's time to get some rest?"
+story: "TODO"
